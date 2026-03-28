@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepak Kumar 
 
-<!--
-**deepakrathore7773/deepakrathore7773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **B.Tech student in Artificial Intelligence & Data Science**  
+💻 Passionate about **Machine Learning, Web Development, and App Development**  
+🚀 Currently building scalable projects and exploring modern tech stacks  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React  
+- **Backend:** Node.js  
+- **Database & Auth:** Supabase  
+
+---
+
+## 📊 GitHub Stats
+![deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakrathore7773&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+![Deepak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakrathore7773&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+- [LinkedIn]()  
+- [Portfolio](https://your-portfolio-link.com)  
