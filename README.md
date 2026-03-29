@@ -24,5 +24,6 @@
 ---
 
 ## 🌐 Let's Connect
-- [LinkedIn]()  
+- [LinkedIn](https://www.linkedin.com/in/deepak-kumar-1011b7328?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  )  
 - [Portfolio](https://your-portfolio-link.com)  
